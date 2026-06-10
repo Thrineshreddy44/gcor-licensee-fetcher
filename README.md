@@ -1,0 +1,1 @@
+# gcor-licensee-fetcher
