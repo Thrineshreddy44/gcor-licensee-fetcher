@@ -4,9 +4,12 @@
 // @version      10.0
 // @description  Fetch licensees from Mystiq API directly on the Mystiq brands page
 // @match        https://mystiq-ui-na-iad.iad.proxy.amazon.com/*
+// @updateURL    https://github.com/Thrineshreddy44/gcor-licensee-fetcher/raw/refs/heads/main/gcor-licensee-fetcher.user.js
+// @downloadURL  https://github.com/Thrineshreddy44/gcor-licensee-fetcher/raw/refs/heads/main/gcor-licensee-fetcher.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
+
 
 (function(){
     'use strict';
